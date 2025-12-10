@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saeedessam/saeedessam/main/Profile.jpg"
-       width="170"
-       style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.4);"
-       alt="Saeed Essam"/>
+  <img src="https://raw.githubusercontent.com/saeedessam/saeedessam/main/profile-circle.png" width="170" alt="Saeed Essam"/>
 </p>
-
 
 
 # Hey there, I'm Saeed Essam 👋
