@@ -1,36 +1,58 @@
-# Hey there, I'm [saeedessam] 👋
+# Hey there, I'm Saeed Essam 👋
 
-** Front-End Engineer | Senior Information Systems Student | React • JavaScript • Web Design • Coffee Lover ☕**
+**Front-End Developer | Senior Information Systems Student | React • JavaScript • Web Design • Coffee Lover ☕**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeedessam&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+---
+
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, and more. <br/>
+I'm **Saeed**, a passionate **Front-End Developer** and a **Senior Information Systems student** who fell in love with web development through real projects and daily practice.  
 
+I enjoy turning simple ideas into clean, responsive, and user-friendly interfaces using **React and JavaScript**.  
+I truly believe that consistency beats talent, and every small step I take today builds my future tomorrow 🚀  
 
-
+When I'm not coding, you'll probably find me:
+- Learning something new in tech  
+- Drinking coffee ☕  
+- Or planning my next project  
 
 <br clear="right"/>
 
-## 🔧 My Tech Stack
+---
+
+## 🔧 My Main Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+---
 
+## 🎯 Current Focus
+
+- Improving my **React** skills  
+- Building real-world **Front-End projects**
+- Preparing myself for the job market step by step  
+
+---
+
+## 💼 Let's Connect on LinkedIn
+
+I'm actively sharing my learning journey, certificates, and projects on LinkedIn.  
+If you'd like to follow my progress or connect professionally:
+
+👉 **Check my LinkedIn profile here:**  
+[![LinkedIn](https://img.shields.io/badge/Visit_My_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-abulkhashab)
+
+---
 
 ## 🔗 Connect with Me
 
