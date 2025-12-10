@@ -2,8 +2,6 @@
 
 ** Front-End Engineer | Senior Information Systems Student | React • JavaScript • Web Design • Coffee Lover ☕**
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeedessam&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -36,12 +34,6 @@ I am a Software Engineer skilled in React, and more. <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-
-## 🎯 LeetCode Heatmap
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 
