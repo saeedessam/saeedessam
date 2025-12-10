@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saeedessam/saeedessam/main/profile.jpg" width="160" style="border-radius: 50%;" alt="Saeed Essam"/>
+</p>
+
+
 # Hey there, I'm Saeed Essam 👋
 
 **Front-End Developer | Senior Information Systems Student | React • JavaScript • Web Design • Coffee Lover ☕**
