@@ -17,7 +17,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I'm **Saeed**, a passionate **Front-End Developer** and a **Senior Information Systems student** who fell in love with web development through real projects and daily practice.  
+I'm **Saeed**, a passionate **Front-End Developer** and fell in love with web development through real projects and daily practice.  
 
 I enjoy turning simple ideas into clean, responsive, and user-friendly interfaces using **React and JavaScript**.  
 I truly believe that consistency beats talent, and every small step I take today builds my future tomorrow 🚀  
