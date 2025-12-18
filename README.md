@@ -5,7 +5,7 @@
 
 # Hey there, I'm Saeed Essam 👋
 
-**Front-End Developer | Senior Information Systems Student | React • JavaScript • Web Design • Coffee Lover ☕**
+**Front-End Developer | React • JavaScript • Web Design • Coffee Lover ☕**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeedessam&style=for-the-badge" alt="Profile Views"/>
